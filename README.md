@@ -7,7 +7,7 @@
 
 ## Descripción 
 
-- 📁 `ACTIVIDAD01`: .
+- 📁 `ACTIVIDAD01`: Análisis exploratorio de datos.
 
 
 ## Autora ✒️
