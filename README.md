@@ -10,6 +10,7 @@
 
 - 📁 `ACTIVIDAD01`: Análisis exploratorio de datos.
 - 📁 `ACTIVIDAD03`: Implementación del algoritmo Apriori.
+- 📁 `ACTIVIDAD06`: Laboratorio 01 de Pyspark.
 - 📁 `SEGUNDO_EJERCICIO_EXAMEN`: Resolución de la segunda pregunta del primer examen de minería de datos.
 
 ## Autora ✒️
