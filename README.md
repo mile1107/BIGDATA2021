@@ -13,6 +13,7 @@
 - 📁 `ACTIVIDAD04`: Implementación de 5 algoritmos de las diapositivas de preprocesamiento de datos en Pyspark.
 - 📁 `ACTIVIDAD05`: Implementación de los algoritmos en BoW usando el concepto MapReduce en Pyspark.
 - 📁 `ACTIVIDAD06`: Laboratorio 01 de Pyspark.
+- 📁 `ACTIVIDAD07`: Laboratorio 02 de Pyspark.
 - 📁 `SEGUNDO_EJERCICIO_EXAMEN`: Resolución de la segunda pregunta del primer examen de minería de datos.
 
 ## Autora ✒️
