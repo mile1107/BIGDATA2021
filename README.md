@@ -15,6 +15,7 @@
 - 📁 `ACTIVIDAD06`: Laboratorio 01 de Pyspark ().
 - 📁 `ACTIVIDAD07`: Laboratorio 02 de Pyspark (Regresión lineal).
 - 📁 `ACTIVIDAD08`: Laboratorio 04 de Pyspark (k-Means para cuantificar atributos).
+- 📁 `ACTIVIDAD09`: Laboratorio 05 de Pyspark (PCA).
 - 📁 `SEGUNDO_EJERCICIO_EXAMEN`: Resolución de la segunda pregunta del primer examen de minería de datos.
 
 ## Autora ✒️
