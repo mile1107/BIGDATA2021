@@ -16,6 +16,6 @@
 * **Luis Augusto Araujo Lechuga - 170748** - [Cucho145U](https://github.com/Cucho145U)
 * **Luis Enrique Flores Aquino - 171564** - [EnriqueFloresAq](https://github.com/EnriqueFloresAq)
 * **Manuel Humberto Velarde Flores - 171918** - [ManuelVelarde2212](https://github.com/ManuelVelarde2212)
-* **Milagros Yarahuamán Rojas - 171071** - [mile1107](https://github.com/prami31)
+* **Milagros Yarahuamán Rojas - 171071** - [prami31](https://github.com/prami31)
 * **Mileydy Ninantay Diaz - 171915** - [mile1107](https://github.com/mile1107)
 ---
